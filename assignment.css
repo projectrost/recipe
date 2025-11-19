@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.main-title { color: green;}
+
+.section-title {
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: mediumvioletred;
+}
+
+ul, ol {
+    margin-left: 30px;
+}
+
+p {
+    line-height: 1.4;
+    max-width: 1800px;
+}
